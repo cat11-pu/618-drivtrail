@@ -1,0 +1,289 @@
+{
+  "lru_size": 3,
+  "ops": [
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 1000,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.8739,
+        "lon": 74.58231
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 12,
+      "timestamp": 1100,
+      "ttl_ms": 12000,
+      "location": {
+        "lat": 42.87429,
+        "lon": 74.58352
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 1200,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.87468,
+        "lon": 74.58473
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 15,
+      "timestamp": 5000,
+      "ttl_ms": 1500,
+      "location": {
+        "lat": 42.87689,
+        "lon": 74.58176
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 1300,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.87507,
+        "lon": 74.58594
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 15,
+      "timestamp": 2000,
+      "ttl_ms": 9000,
+      "location": {
+        "lat": 42.8778,
+        "lon": 74.58462
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 1400,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.87546,
+        "lon": 74.58715
+      }
+    },
+    {
+      "op": "settle",
+      "timestamp": 6300
+    },
+    {
+      "op": "report",
+      "driver_id": 9,
+      "timestamp": 1500,
+      "ttl_ms": 4500,
+      "location": {
+        "lat": 42.87585,
+        "lon": 74.58836
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 1600,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.87624,
+        "lon": 74.58957
+      }
+    },
+    {
+      "op": "settle",
+      "timestamp": 6450
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 1700,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.87663,
+        "lon": 74.58099
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 31,
+      "timestamp": 1750,
+      "ttl_ms": 20000,
+      "location": {
+        "lat": 42.87052,
+        "lon": 74.58649
+      }
+    },
+    {
+      "op": "settle",
+      "timestamp": 6750
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 6800,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.8713,
+        "lon": 74.58396
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 23,
+      "timestamp": 7000,
+      "ttl_ms": 3000,
+      "location": {
+        "lat": 42.87208,
+        "lon": 74.58638
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 6900,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.87169,
+        "lon": 74.58517
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 6850,
+      "ttl_ms": 2000,
+      "location": {
+        "lat": 42.8778,
+        "lon": 74.58946
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 31,
+      "timestamp": 7200,
+      "ttl_ms": 20000,
+      "location": {
+        "lat": 42.87286,
+        "lon": 74.5888
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 7000,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.87208,
+        "lon": 74.58638
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 12,
+      "timestamp": 7300,
+      "ttl_ms": 15000,
+      "location": {
+        "lat": 42.87325,
+        "lon": 74.58022
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 7100,
+      "ttl_ms": 5000,
+      "location": {
+        "lat": 42.87247,
+        "lon": 74.58759
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 31,
+      "timestamp": 7400,
+      "ttl_ms": 20000,
+      "location": {
+        "lat": 42.87364,
+        "lon": 74.58143
+      }
+    },
+    {
+      "op": "settle",
+      "timestamp": 12250
+    },
+    {
+      "op": "report",
+      "driver_id": 7,
+      "timestamp": 12300,
+      "ttl_ms": 6000,
+      "location": {
+        "lat": 42.88014,
+        "lon": 74.58198
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 9,
+      "timestamp": 12400,
+      "ttl_ms": 7000,
+      "location": {
+        "lat": 42.88053,
+        "lon": 74.58319
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 31,
+      "timestamp": 12500,
+      "ttl_ms": 20000,
+      "location": {
+        "lat": 42.88092,
+        "lon": 74.5844
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 23,
+      "timestamp": 12600,
+      "ttl_ms": 4000,
+      "location": {
+        "lat": 42.88131,
+        "lon": 74.58561
+      }
+    },
+    {
+      "op": "settle",
+      "timestamp": 17000
+    },
+    {
+      "op": "report",
+      "driver_id": 9,
+      "timestamp": 17100,
+      "ttl_ms": 1000,
+      "location": {
+        "lat": 42.87364,
+        "lon": 74.58132
+      }
+    },
+    {
+      "op": "report",
+      "driver_id": 12,
+      "timestamp": 7500,
+      "ttl_ms": 15000,
+      "location": {
+        "lat": 42.87403,
+        "lon": 74.58264
+      }
+    },
+    {
+      "op": "settle",
+      "timestamp": 18500
+    }
+  ]
+}
